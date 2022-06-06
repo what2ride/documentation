@@ -1,4 +1,4 @@
-# what2ride - Technical Documentation
+# Content
 
 [Introduction and Goals](/01_introduction_and_goals.md)<br>
 [Architecture Constraints](/02_architecture_constraints.md)<br>
