@@ -8,5 +8,7 @@
 
 | Role/Name   | Contact        | Expectations       |
 |-------------|----------------|--------------------|
-| *\<Role-1>* | *\<Contact-1>* | *\<Expectation-1>* |
-| *\<Role-2>* | *\<Contact-2>* | *\<Expectation-2>* |
+| System Architect | Patrick Müller | Clean and scalable architecture to guarantee broad usage possibilities and extensibility |
+| Backend Architect | Denis Thiessen | TODO |
+| Backend Architect | David Huh | TODO |
+| Frontend Architect | Elisabeth Kletsko | TODO |
